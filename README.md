@@ -2,6 +2,10 @@
 
 _Proyecto del curso código con Juan, que es un CRM de clientes, el cual permite agregar, editar y eliminar clientes, se hace uso de JSON Server para simular una REST API, ademas de aplicar rutas dinamicas en React_
 
+_Este es un proyecto donde aprendí como hacer rutas dinámicas como, hacer uso de React Router Dom, la anidación de las rutas, los loader, los action, el como usar JSON Server para simular una API Rest, perzonalizar las ventas de error de react por defecto a una propia para mostrar los errores de mi aplicación._
+
+![Imagen del proyecto](/public/screenshot.png)
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
@@ -21,86 +25,67 @@ Node.js
 
 _Para ejecutar este proyecto sigue estos pasos:_
 
+_1. Fork o clona este repositorio._
+
 ```
-1. Fork o clona este repositorio.
 
 git clone https://github.com/Jesus-Puertos/CRM-Clientes.git
 
 ```
 
-_Y repite_
+_2. Navega al proyecto._
 
 ```
-hasta finalizar
-```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
+cd CRM-Clientes
 
 ```
-Da un ejemplo
-```
 
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
+_3. Instala las dependencias._
 
 ```
-Da un ejemplo
+
+npm install
+
 ```
 
-## Despliegue 📦
+_4. Run al proyecto._
 
-_Agrega notas adicionales sobre como hacer deploy_
+```
+
+npm run dev
+
+```
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Este proyecto fue construido utilizando las siguientes tecnologías:_
 
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-- [Maven](https://maven.apache.org/) - Manejador de dependencias
-- [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+- [React](https://reactjs.org/) - Un framework web utilizado para construir interfaces de usuario interactivas.
+- [TailwindCSS](https://tailwindcss.com/) - Un framework de CSS utilitario que permite diseñar rápidamente interfaces modernas y personalizables.
+- [React Router Dom](https://reactrouter.com/) - Una librería utilizada para manejar las rutas y la navegación en una aplicación React.
+- [JSON SERVER](https://github.com/typicode/json-server) - Una herramienta que permite simular una REST API utilizando un archivo JSON como base de datos.
 
-## Contribuyendo 🖇️
+## Curso 📖
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Curso](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/)
 
 ## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-- **Andrés Villanueva** - _Trabajo Inicial_ - [villanuevand](https://github.com/villanuevand)
-- **Fulanito Detal** - _Documentación_ - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto.
+- **Jesús Alberto Rodriguez Puertos** - _Dev Fullstack Jr._ - [jesusdev](https://jesus-puertosdev.netlify.app/)
+- **Juan de la Torre (Código con Juan)** - _Dev Fullstack Senior_ - [codigoconjuan](https://codigoconjuan.com/)
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia MIT
 
 ## Expresiones de Gratitud 🎁
 
 - Comenta a otros sobre este proyecto 📢
-- Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
-- Da las gracias públicamente 🤓.
-- Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-- etc.
+- Gracias por leer 🤓.
 
 ---
 
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ con ❤️ por [jesusdev](https://jesus-puertosdev.netlify.app/) 😊
