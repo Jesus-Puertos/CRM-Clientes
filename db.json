@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ana Karen",
+      "empresa": "Spotify",
+      "email": "226w0489@zongolica.tecnm.mx",
+      "telefono": "138198313",
+      "notas": "Es hermosa jeje ❤️",
+      "id": "2"
+    },
+    {
+      "id": "d8ae",
+      "nombre": "Jesus Alberto",
+      "empresa": "Spotify",
+      "email": "226w0496@zongolica.tecnm.mx",
+      "telefono": "2722662474",
+      "notas": "Increible espero funcione"
+    }
+  ]
+}
